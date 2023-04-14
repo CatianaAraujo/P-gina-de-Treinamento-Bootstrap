@@ -1,0 +1,55 @@
+.bloco-1{
+    height: 50vh;
+    background-color: rgba(217, 217, 217, 1);
+}
+
+.bloco-2{
+    height: 50vh;
+    background-color: rgba(58, 166, 173, 1);
+
+}
+
+.bloco-3{
+    background-color: rgba(255, 197, 49, 1);
+    height: 250px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.bloco-4{
+    height: 40vh;
+    background-color: rgba(58, 166, 173, 1);
+
+}
+
+.bloco-5{
+    background-color: rgba(255, 197, 49, 1);
+    height: 250px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.bloco-6-pai{
+    background-color: rgba(58, 166, 173, 1);
+    height: 75vh;
+    
+}
+
+.bloco-6-filho{
+    background-color: rgba(255, 197, 49, 1);
+    height: 70vh;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.bloco-7-pai{
+    background-color: rgba(255, 197, 49, 1);
+    
+}
+
+.bloco-7-filho{
+    height: 30vh;
+    background-color: rgba(58, 166, 173, 1);
+    margin: 20px;
+    border-radius: 10px;
+}
